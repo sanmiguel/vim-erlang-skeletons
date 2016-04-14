@@ -71,7 +71,7 @@ Variables used are:
 CONFIGURATION
 =============
 
-Following variables can be overrided via .vimrc settings:
+Following variables can be overridden via .vimrc settings:
 
 `erl_author`              default: `whoami`
 
